@@ -1,0 +1,149 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: inline;
+    background: #4DA768;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container__geral {
+    position: absolute;
+    top: 55px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 0px;
+}
+
+.img__principal{
+    width: 100%;
+    height: 600px;
+}
+
+.container__slogan {
+    display: inline;
+    position: absolute;
+    top: 100px;
+    right: 90px;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 20px;
+    opacity: 0.7;
+    background-color: #FEFEFE;
+    color: #006633;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container__slogan img {
+    max-width: 160px;
+    max-height: 160px;
+    padding: 20px;
+}
+.container__geral__2 {
+    color: white;
+    margin-top: 660px;
+    padding: 70px 70px 20px 20px;
+}
+
+.container__geral__2 h1{
+    margin-bottom: 40px;
+}
+.container__ilustração {
+    width: 100%;
+    height: 600px;
+    background-color: #39824F;
+    border-radius: 20px;
+    text-align: start;
+}
+.container__ilustração img {
+    width: 100%;
+    height: 90%;
+    border-radius: 20px 20px 0px 0px;
+    object-fit: cover;
+}
+
+.container__ilustração p {
+    padding: 15px 0px 0px 20px;
+}
+
+.container__pautas {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.container__pauta1 {
+    background: #39824F;
+    width: 270px;
+    height: 350px;
+    padding: 30px;
+    border-radius: 20px;
+    display: inline;
+    justify-content:center;
+}
+.container__pauta1 img {
+    height: 140px;
+    width: 140px;
+}
+.container__beneficios1, .container__beneficio02{
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+}
+
+.container__beneficio__image {
+    width: 30%;
+    height: 300px;
+    border-radius: 20px;
+}
+.container__beneficio__image img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.container__beneficio__text {
+    width: 70%;
+    height: 300px;
+    background: #39824F;
+    padding: 60px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.container__beneficio__text02 {
+    width: 30%;
+    height: 300px;
+    background: #39824F;
+    padding: 50px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.container__beneficio__image02 {
+    width: 70%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.container__beneficio__image02 img {
+     width: 100%;
+     height: 300px;
+     object-fit: cover;
+     border-radius: 20px;
+
+     
+ }

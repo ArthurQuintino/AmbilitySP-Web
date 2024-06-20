@@ -1,0 +1,113 @@
+﻿@{
+	ViewData["Title"] = "Início";
+
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/Estilo.css" />
+</head>
+<body>
+	<div class="container__geral">
+		<div class="container__image">
+			<div id="carouselExample" class="carousel slide">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img src="~/images/ilhabela1.jpg" class="img__principal" alt="..." style="object-fit: cover;">
+					</div>
+					<div class="carousel-item">
+						<img src="~/images/ubatuba1.jpg" class="img__principal" alt="..." style="object-fit: cover;">
+					</div>
+					<div class="carousel-item">
+						<img src="~/images/guaruja.jpg" class="img__principal" alt="..." style="object-fit: cover;">
+					</div>
+				</div>
+				<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				</button>
+				<button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				</button>
+			</div>
+			<div class="container__slogan">
+				<img src="images/logo.png">
+				<h2 style="font-family: 'JetBrains Mono';font-size: 22px;">Bem vindo! proteja o meio ambiente com a gente!</h2>
+			</div>
+		</div>
+	</div>
+	<div class="container__geral__2">
+		<h1 style="font-family: 'JetBrains Mono';font-size: 22px; text-align: justify;">
+			@ViewBag.text1
+	</h1>
+		<div class="container__ilustração">
+				<img src="images/poluition.png">
+				<p style="font-family: 'JetBrains Mono';font-size: 22px;" >SANTOS SP 2019</p>
+		</div>
+		<h1 style ="font-family: 'JetBrains Mono';font-size: 22px; text-align: justify; margin-top: 40px;">
+			@ViewBag.text2
+		</h1>
+
+		<h1 style="font-family: 'JetBrains Mono';font-size: 25px; padding: 60px 0px 60px 0px; font-weight: bold;">Nossas Pautas</h1>
+		<div class="container__pautas">
+			<div class="container__pauta1">
+				<img src="images/pauta1.png">
+				<h1 style="font-family: 'JetBrains Mono'; font-size: 20px; padding-top: 50px;">@ViewData["pauta1"]</h1>
+			</div>
+			<div class="container__pauta1">
+				<img src="images/pauta2.png">
+				<h1 style="font-family: 'JetBrains Mono'; font-size: 20px; padding-top: 50px;">@ViewData["pauta2"]</h1>
+			</div>
+			<div class="container__pauta1">
+				<img src="images/pauta3.png">
+				<h1 style="font-family: 'JetBrains Mono'; font-size: 20px; padding-top: 50px;">@ViewData["pauta3"]</h1>
+			</div>
+		</div>
+		<h1 style="font-family: 'JetBrains Mono'; font-size: 23px; padding: 90px 0px 90px 0px; font-weight: bold;">Benefícios da Reciclagem</h1>
+		<div class="container__beneficios1">
+			<div class="container__beneficio__image">
+				<img src="images/beneficio01.png" />
+			</div>
+			<div class="container__beneficio__text">
+				<h2 style="font-family: 'JetBrains Mono'; padding-bottom: 20px; text-align: start; font-size: 18px;">
+					1  - Geração de Empregos
+				</h2>
+				<h3 style="font-family: 'JetBrains Mono'; text-align: justify; font-size: 16px ;">Com a reciclagem milhares de empregos são demandados por conta das empresas que reutilizam esses materiais reciclados, que são nescessarios desde a logistica ate a seleção desses materiais.</h3>
+			</div>
+		</div>
+		<div class="container__beneficio02">
+			<div class="container__beneficio__text02">
+				<h2 style="font-family: 'JetBrains Mono'; padding-bottom: 20px; text-align: start; font-size: 18px;">
+					2  - Redução da Poluição
+				</h2>
+				<h3 style="font-family: 'JetBrains Mono'; text-align: justify; font-size: 15px;">
+					A reciclagem tambem auxilia na redução de poluição nos mares e solos, contribuindo para o bem estar humano, animal e ambiental.
+				</h3>
+			</div>
+			<div class="container__beneficio__image02">
+				<img src="images/beneficio02.png" />
+			</div>
+		</div>
+		<div class="container__beneficios1">
+			<div class="container__beneficio__image">
+				<img src="images/beneficio03.png" />
+			</div>
+			<div class="container__beneficio__text">
+				<h2 style="font-family: 'JetBrains Mono';  padding-bottom: 20px;  text-align: start; font-size: 18px;">
+					3 - Reaproveitamento de Materiais
+				</h2>
+				<h3 style="font-family: 'JetBrains Mono'; text-align: justify; font-size: 16px;">Com a reciclagem muitas grandes empresas, com um preço menor, conseguem embalagens que podem ser reutilizaveis, alem de economizar energia, conserva muitos recursos naturais de nosso planeta.</h3>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

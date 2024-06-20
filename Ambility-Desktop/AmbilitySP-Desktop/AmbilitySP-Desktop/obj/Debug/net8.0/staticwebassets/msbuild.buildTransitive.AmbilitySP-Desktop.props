@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AmbilitySP-Desktop.props" />
+</Project>
