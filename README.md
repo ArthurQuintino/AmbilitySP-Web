@@ -1,5 +1,5 @@
 <h2>Nome da aplicação: AmbilitySP <br>
-Integrantes: Arthur dos Santos Reimberg e Arthur Quintino de Santana</h2>
+Integrantes: Alexandre Luiz Teixeira e Arthur Quintino de Santana</h2>
 <h3>Descrição da aplicação:<br>
 Nosso aplicativo consiste em alertar e disponibilizar aos moradores e turistas da região litorânea paulistana sobre questões ecológicas e ambientais, que permite que o usuário interaja com informações como: <br>
 <br>
