@@ -10,7 +10,7 @@ html{
 body {
     margin: 0;
     padding: 0;
-    background: #4DA768;
+    background: #0E1A0F;
     justify-content: center;
     align-items: center;
 }
@@ -75,16 +75,16 @@ body {
     height: 600px;
     margin-left: -5%;
 }
- 
-.mapa{
-    display:flex;
+
+.mapa {
+    display: flex;
     height: 80%;
-    width:60%;
-    background-color: #39824F;
-    border:1px;
-    border-radius:10px;
-    justify-content:center;
-    align-items:center;
+    width: 60%;
+    background-color: #3E8538;
+    border: 1px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
 }
 .mapa h3{
     margin-top:-420px;
@@ -107,7 +107,7 @@ body {
     height: 80%;
     border: 1px;
     border-radius: 10px;
-    background-color: #39824F;
+    background-color: #3E8538;
     margin-left: 10%;
     color: #fff;
     padding: 30px;
@@ -142,12 +142,12 @@ body {
     height: 600px;
     margin-left: -5%;
 }
- 
+
 .img_denuncia {
     display: flex;
     height: 80%;
     width: 60%;
-    background-color: #39824F;
+    background-color: #3E8538;
     border: 1px;
     border-radius: 10px;
     justify-content: center;

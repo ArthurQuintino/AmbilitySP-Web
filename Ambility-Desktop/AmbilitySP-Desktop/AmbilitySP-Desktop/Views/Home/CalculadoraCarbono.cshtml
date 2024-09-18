@@ -1,0 +1,41 @@
+﻿@model AmbilitySP_Desktop.Models.CalcCarbono
+
+@{
+    ViewData["Title"] = "Calculadora de Carbono";
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/Estilo03.css" />
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Calculadora</h2>
+        <form asp-action="Calcular" method="post">
+            <div class="mb-3">
+                <label for="opcaoSelecionada" class="form-label">Escolha uma opção</label>
+                <select asp-for="OpcaoSelecionada" class="form-select" id="opcaoSelecionada" asp-items="@(new SelectList(Model.materiais))">
+                    <option value="">Selecione...</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="valor" class="form-label">Insira um número</label>
+                <input asp-for="Kilos" type="number" step="0.01" class="form-control" id="valor" />
+            </div>
+            <button type="submit" class="btn btn-primary">Calcular</button>
+        </form>
+
+        <div class="mt-4">
+            <h4>Resultado: @Model.Resultado Kilos não emitidos de carbono!!! Parabéns ;3</h4>
+        </div>
+    </div>
+</body>
+</html>

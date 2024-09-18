@@ -7,7 +7,7 @@
 
 body {
     display: inline;
-    background: #4DA768;
+    background: #0E1A0F;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -61,7 +61,7 @@ body {
 .container__ilustração {
     width: 100%;
     height: 600px;
-    background-color: #39824F;
+    background-color: #3E8538;
     border-radius: 20px;
     text-align: start;
 }
@@ -83,13 +83,13 @@ body {
     flex-wrap: wrap;
 }
 .container__pauta1 {
-    background: #39824F;
+    background: #3E8538;
     width: 270px;
     height: 350px;
     padding: 30px;
     border-radius: 20px;
     display: inline;
-    justify-content:center;
+    justify-content: center;
 }
 .container__pauta1 img {
     height: 140px;
@@ -118,7 +118,7 @@ body {
 .container__beneficio__text {
     width: 70%;
     height: 300px;
-    background: #39824F;
+    background: #3E8538;
     padding: 60px;
     box-sizing: border-box;
     border-radius: 20px;
@@ -127,7 +127,7 @@ body {
 .container__beneficio__text02 {
     width: 30%;
     height: 300px;
-    background: #39824F;
+    background: #3E8538;
     padding: 50px;
     box-sizing: border-box;
     border-radius: 20px;

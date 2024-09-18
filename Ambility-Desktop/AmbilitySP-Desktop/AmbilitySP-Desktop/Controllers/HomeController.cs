@@ -33,5 +33,28 @@ namespace AmbilitySP_Desktop.Controllers
 		{
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
 		}
-	}
+        private readonly Dictionary<string, double> valores = new Dictionary<string, double>
+     {
+         {"Borracha", 10.0},
+         {"Metal", 20.0},
+         {"Plastico", 10.0}
+     };
+
+        public IActionResult CalculadoraCarbono()
+        {
+            var calcCarb = new CalcCarbono();
+            return View(calcCarb);
+        }
+
+        [HttpPost]
+
+        public IActionResult Calcular(CalcCarbono calcCarb)
+        {
+            if (!string.IsNullOrEmpty(calcCarb.OpcaoSelecionada) && valores.ContainsKey(calcCarb.OpcaoSelecionada))
+            {
+                calcCarb.Resultado = valores[calcCarb.OpcaoSelecionada] * calcCarb.Kilos;
+            }
+            return View("CalculadoraCarbono", calcCarb);
+        }
+    }
 }

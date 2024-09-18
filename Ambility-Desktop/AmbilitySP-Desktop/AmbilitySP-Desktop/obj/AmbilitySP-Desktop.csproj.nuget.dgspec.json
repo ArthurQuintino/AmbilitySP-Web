@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sacol\\Desktop\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {}
+    "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sacol\\Desktop\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {
+    "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sacol\\Desktop\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
         "projectName": "AmbilitySP-Desktop",
-        "projectPath": "C:\\Users\\sacol\\Desktop\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+        "projectPath": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
         "packagesPath": "C:\\Users\\sacol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sacol\\Desktop\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
+        "outputPath": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sacol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
           "dependencies": {
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.5, )"
             }
           },
           "imports": [
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
