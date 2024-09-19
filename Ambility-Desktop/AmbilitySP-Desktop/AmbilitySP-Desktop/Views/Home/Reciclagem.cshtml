@@ -1,4 +1,7 @@
-﻿@{
+﻿@model AmbilitySP_Desktop.Models.Contato
+
+
+@{
 	ViewData["Title"] = "Segunda Tela";
 
 }
@@ -28,6 +31,10 @@
 			<p class="text_days">
 				Região norte litorânea: todas as quintas e terças<br />
 				Região sul litorânea: todas as sextas e quartas
+			</p>
+
+			<p class="tex_days">
+				Disponibilidade: RESOLVER AMANHA COM URGENCIA
 			</p>
 		</div>
 		<div class="img_recicla">
@@ -63,11 +70,22 @@
 			<h3>Para realizar denúncias, ligue para qualquer um dos componentes a baixo: </h3>
 			<h4>Telefones:</h4><br />
 			<p>
-				Ibama: 0800 618080<br />
-				Orgão estadual litoraneo: (13)3344-9400
+				Ibama: <a asp-action="Ligar" asp-route-telefone="@Model.telefone"> @Model.telefone[0] </a><br />
+				Orgão Estadual Litoraneo: <a asp-action="Ligar" asp-route-telefone="@Model.telefone"> @Model.telefone[1] </a>
 			</p>
 			<br /><br />
 			<p>Denuncie! Voce esta fazendo um favor para o meio ambiente e para a saúde da população!</p>
+		</div>
+	</section>
+	<section class="info_04">
+		<div class="img_economia">
+			<h3>Gráfico da economia circular</h3>
+			<img src="~/images/economia_circular.png" />
+		</div>
+
+		<div class="text_economia">
+			<h3>O que é a economia circular?</h3>
+			<p>A Economia Circular é Basicamente é uma forma eficiente de se reutilizar produtos que antes iriam ser descartados para gerar novos produtos, um otimo exemplo são garrafas ou latinhas, em que muitas empresas grandes ja expoem isso nas proprias embalagens.</p>
 		</div>
 	</section>
 

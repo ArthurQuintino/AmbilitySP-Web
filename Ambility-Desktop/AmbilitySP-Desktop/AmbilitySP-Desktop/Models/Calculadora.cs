@@ -4,10 +4,11 @@
     {
         public double Kilos { get; set; }
 
-        public List<string> materiais { get; set; } = new List<string> { "Borracha", "Metal", "Plastico" };
+        public List<string> Materiais { get; set; } = new List<string> { "Borracha"};
 
         public double Resultado { get; set; }
 
-        public string OpcaoSelecionada { get; set; }
+        public string? OpcaoSelecionada { get; set; }
+
     }
 }

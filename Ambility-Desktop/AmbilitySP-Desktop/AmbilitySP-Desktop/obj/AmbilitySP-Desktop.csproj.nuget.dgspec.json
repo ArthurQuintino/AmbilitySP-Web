@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {}
+    "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {
+    "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
         "projectName": "AmbilitySP-Desktop",
-        "projectPath": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
-        "packagesPath": "C:\\Users\\sacol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sacol\\OneDrive\\Área de Trabalho\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
+        "projectPath": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+        "packagesPath": "C:\\Users\\mikaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sacol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mikaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

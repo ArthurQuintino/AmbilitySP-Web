@@ -1,0 +1,21 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: inline;
+    background: #0E1A0F;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.containerCalculadora{
+    background: #18421c;
+    padding-top: 100px;
+    margin-top:5rem;
+    height: 700px;
+}

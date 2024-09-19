@@ -4,6 +4,6 @@
     {
         public double emissaoMaterial { get; set; }
 
-        public double emissão { get; set; }
+        public double emissao { get; set; }
     }
 }

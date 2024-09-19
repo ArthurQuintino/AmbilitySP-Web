@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmbilitySP-Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a4e2260cbffe247289f444262ce754bc68b785e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf9db12ee2fe0bf7a17d8fe8959e56258c3a5e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmbilitySP-Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmbilitySP-Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
