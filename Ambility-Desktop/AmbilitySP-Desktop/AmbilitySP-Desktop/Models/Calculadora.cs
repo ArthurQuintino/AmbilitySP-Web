@@ -4,7 +4,7 @@
     {
         public double Kilos { get; set; }
 
-        public List<string> Materiais { get; set; } = new List<string> { "Borracha"};
+        public string Materiais { get; set; }
 
         public double Resultado { get; set; }
 

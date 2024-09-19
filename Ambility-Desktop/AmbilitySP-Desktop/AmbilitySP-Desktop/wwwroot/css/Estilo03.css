@@ -13,9 +13,11 @@ body {
     text-align: center;
 }
 
-.containerCalculadora{
+.containerCalculadora {
     background: #18421c;
     padding-top: 100px;
-    margin-top:5rem;
+    margin-top: 5rem;
     height: 700px;
+    width: 30rem;
+    border-radius: 15px;
 }

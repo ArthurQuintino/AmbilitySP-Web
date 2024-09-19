@@ -18,24 +18,29 @@
 </head>
 
 <body>
-    <div class="containerCalculadora">
-        <h2>Calculadora de carbono</h2>
+    <div class="containerCalculadora" >
+        <h2 style="color:#fff;">Calculadora de carbono</h2>
         <form asp-action="Calcular" method="post">
             <div class="mb-3">
-                <label for="opcaoSelecionada" class="form-label" style="font-family: 'JetBrains Mono'; font-size: 18px; color: #fff">Escolha o material que foi reciclado!</label>
-                <select asp-for="OpcaoSelecionada" class="form-select" id="opcaoSelecionada" asp-items="@(new SelectList(Model.Materiais))">
-                    <option value="">Selecione...</option>
+                <label class="form-label" style="font-family: 'JetBrains Mono'; font-size: 20px; margin-top:30px; color: #fff">Escolha o material que foi reciclado!</label>
+                <select asp-for="emissaoMaterial" class="form-control" style="width: 500px; margin-left: 15rem">
+                    @foreach (var item in ViewBag.Valores)
+                    {
+                        <option value="@item.emissaoMaterial">@item.Materiais</option>
+                    }
                 </select>
             </div>
             <div class="mb-3">
-                <label for="valors" class="form-label" style="font-family: 'JetBrains Mono'; font-size: 18px; color: #fff">Insira a quantidade de kilos</label>
-                <input asp-for="Kilos" type="number" step="0.01" class="form-control" id="valor" />
+                <label class="form-label" style="font-family: 'JetBrains Mono'; font-size: 20px; margin-top:30px; color: #fff">Insira a quantidade de kilos</label>
+                <input asp-for="Kilos" type="number" step="0.01" class="form-control" style="width: 500px; margin-left: 15rem" />
             </div>
-            <button type="submit" class="btn btn-primary">Calcular</button>
+            <div>
+                <button type="submit" class="btn btn-primary" style="background:chartreuse">Calcular</button>
+            </div>
         </form>
 
         <div class="mt-4">
-            <h4 style="font-family: 'JetBrains Mono'; font-size: 20px; color: #fff">Resultado: @Model.emissao</h4>
+            <h4 style="font-family: 'JetBrains Mono'; font-size: 20px; color: #fff">Quilos de carbono não emitidos: @Model.Resultado</h4>
         </div>
     </div>
 </body>

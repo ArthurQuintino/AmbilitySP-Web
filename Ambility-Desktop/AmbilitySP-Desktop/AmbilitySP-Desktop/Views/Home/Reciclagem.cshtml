@@ -33,9 +33,17 @@
 				Região sul litorânea: todas as sextas e quartas
 			</p>
 
-			<p class="tex_days">
-				Disponibilidade: RESOLVER AMANHA COM URGENCIA
-			</p>
+			@if (ViewBag.Disponivel == "Não está disponivel")
+			{
+				<h4 style: "font-size: 25px; font-weight: 700">Disponibilidade:</h4>
+				<p class="text-danger" style="font-size: 20px"> @ViewBag.Disponivel</p>
+			}
+			else
+			{
+				<h4 style: "font-size: 25px; font-weight: 700">Disponibilidade:</h4>
+				<p class="text-success" style="font-size: 20px"> @ViewBag.Disponivel</p>
+			}
+		
 		</div>
 		<div class="img_recicla">
 			<img src="~/images/recicla.jpg" />

@@ -33,25 +33,20 @@ namespace AmbilitySP_Desktop.Controllers
             contato.telefone.Add(0800618080);
             contato.telefone.Add(1333449400);
 
-
-            return View(contato);
-        }
-
-        public IActionResult Disponibilidade(Coleta coleta) 
-        {
             var dataAgora = DateTime.Now;
             var horaAgora = dataAgora.Hour;
 
             if (horaAgora > 7 && horaAgora < 13)
             {
-                coleta.Disponivel = "Está disponivel";
+                ViewBag.Disponivel = coleta.Disponivel = "Está disponivel";
             }
             else
             {
-                coleta.Disponivel = "Não está disponivel";
+                ViewBag.Disponivel = coleta.Disponivel = "Não está disponivel";
             }
 
-            return View("Reciclagem", coleta) ;
+
+            return View(contato);
         }
 
         public IActionResult Ligar(int telefone)
@@ -67,28 +62,27 @@ namespace AmbilitySP_Desktop.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        private readonly Dictionary<string, double> valores = new Dictionary<string, double>
+        private List<CalcCarbono> valoresCarb = new List<CalcCarbono>
         {
-             {"Borracha", 10.0},
-             {"Metal", 20.0},
-             {"Plastico", 10.0}
-         };
+            new CalcCarbono {Materiais = "Borracha", emissaoMaterial = 5.0},
+            new CalcCarbono {Materiais = "Plástico", emissaoMaterial = 3.0},
+            new CalcCarbono {Materiais = "Vidro", emissaoMaterial = 1.5}
+        };
+        
+
 
         public IActionResult CalculadoraCarbono()
         {
-            var calcCarb = new CalcCarbono();
+            ViewBag.Valores = valoresCarb;
 
-            return View(calcCarb);
+            return View(new CalcCarbono());
         }
 
         [HttpPost]
-
         public IActionResult Calcular(CalcCarbono calcCarb)
         {
-            if (!string.IsNullOrEmpty(calcCarb.OpcaoSelecionada) && valores.ContainsKey(calcCarb.OpcaoSelecionada))
-            {
-                calcCarb.emissao = valores[calcCarb.OpcaoSelecionada] * calcCarb.Kilos;
-            }
+            calcCarb.Resultado = calcCarb.emissaoMaterial * calcCarb.Kilos;
+            ViewBag.Valores = valoresCarb;
             return View("CalculadoraCarbono", calcCarb);
         }
     }
