@@ -5575,11 +5575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
       "projectName": "AmbilitySP-Desktop",
-      "projectPath": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+      "projectPath": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
       "packagesPath": "C:\\Users\\mikaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
+      "outputPath": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

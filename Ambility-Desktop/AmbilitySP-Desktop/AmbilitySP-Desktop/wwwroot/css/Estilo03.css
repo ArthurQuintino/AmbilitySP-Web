@@ -15,9 +15,10 @@ body {
 
 .containerCalculadora {
     background: #18421c;
-    padding-top: 100px;
+    padding-top: 20px;
     margin-top: 5rem;
-    height: 700px;
-    width: 30rem;
+    margin-left: 15rem;
+    height: 820px;
+    width: 800px;
     border-radius: 15px;
 }

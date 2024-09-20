@@ -1,54 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\",
+  "WorkspaceRootPath": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\home\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\calculadoracarbono.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\calculadoracarbono.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\home\\calculadoracarbono.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo02.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo02.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\calculadoraganhos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\home\\calculadoraganhos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo03.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo03.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\calccarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\calccarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\calccarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\calccarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\calcganhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\calcganhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo03.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo03.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\home\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\home\\reciclagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo02.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo02.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\desktop\\ambility_web\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|c:\\users\\mikaz\\teste_asp\\ambilitysp-web\\ambility-desktop\\ambilitysp-desktop\\ambilitysp-desktop\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9917B0E4-3F05-4A03-A865-1F7EC6C61D2C}|AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj|solutionrelative:ambilitysp-desktop\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Reciclagem.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
               "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
               "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\Reciclagem.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBgAAAAxAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswFQAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T00:31:04.778Z",
               "IsPinned": true,
@@ -76,15 +88,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estilo02.css",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
-              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "DocumentIndex": 5,
+              "Title": "Estilo03.css",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
+              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-20T01:26:06.661Z",
+              "WhenOpened": "2024-09-19T19:53:13.576Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -94,62 +106,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coleta.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Coleta.cs",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\Coleta.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Coleta.cs",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\Coleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:48:08.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Estilo03.css",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
-              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-19T19:53:13.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Estilo.css",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
-              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAIEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-18T01:31:59.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T01:24:44.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculadoraCarbono.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T02:07:00.364Z",
+              "Title": "CalcCarbono.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:05:30.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CalcGanhos.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcGanhos.cs",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\CalcGanhos.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcGanhos.cs",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\CalcGanhos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:57:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwHwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:09:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:24:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
               "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -158,60 +184,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Calculadora.cs",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Calculadora.cs",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\Calculadora.cs",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Calculadora.cs",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T02:04:23.809Z"
+              "DocumentIndex": 12,
+              "Title": "Estilo02.css",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
+              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T01:26:06.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAACtAAAA",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraCarbono.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraCarbono.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T21:48:22.63Z"
+              "WhenOpened": "2024-09-18T02:07:00.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Coleta.cs",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Coleta.cs",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\Coleta.cs",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Coleta.cs",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\Coleta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:48:08.933Z"
+              "DocumentIndex": 1,
+              "Title": "CalculadoraGanhos.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraGanhos.cshtml",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraGanhos.cshtml",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Home\\CalculadoraGanhos.cshtml",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Home\\CalculadoraGanhos.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T00:41:34.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CalcCarbono.cs",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
-              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
-              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\CalcCarbono.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T02:05:30.395Z",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T21:48:22.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Calculadora.cs",
+              "RelativeToolTip": "AmbilitySP-Desktop\\Models\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:04:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estilo.css",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
+              "RelativeDocumentMoniker": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
+              "RelativeToolTip": "AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAIEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T01:31:59.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Contato.cs",
+              "DocumentMoniker": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "AmbilitySP-Desktop\\Models\\Contato.cs",
-              "ToolTip": "C:\\Users\\mikaz\\Desktop\\ambility_web\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\Models\\Contato.cs",
               "RelativeToolTip": "AmbilitySP-Desktop\\Models\\Contato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

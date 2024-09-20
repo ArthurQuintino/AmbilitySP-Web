@@ -64,11 +64,36 @@ namespace AmbilitySP_Desktop.Controllers
 
         private List<CalcCarbono> valoresCarb = new List<CalcCarbono>
         {
-            new CalcCarbono {Materiais = "Borracha", emissaoMaterial = 5.0},
-            new CalcCarbono {Materiais = "Plástico", emissaoMaterial = 3.0},
-            new CalcCarbono {Materiais = "Vidro", emissaoMaterial = 1.5}
+            new CalcCarbono {Materiais = "Borracha", emissaoMaterial = 2.5},
+            new CalcCarbono {Materiais = "Plástico", emissaoMaterial = 6.0},
+            new CalcCarbono {Materiais = "Aluminio", emissaoMaterial = 4},
+            new CalcCarbono {Materiais = "Cobre", emissaoMaterial = 15.0},
+            new CalcCarbono {Materiais = "Ferro", emissaoMaterial = 2.0},
+            new CalcCarbono {Materiais = "Vidro", emissaoMaterial = 0.7},
+            new CalcCarbono {Materiais = "Papelão", emissaoMaterial = 0.4},
+            new CalcCarbono {Materiais = "Chumbo", emissaoMaterial = 9.0},
+            new CalcCarbono {Materiais = "Aço", emissaoMaterial = 1.0},
+            new CalcCarbono {Materiais = "Latão", emissaoMaterial = 3.5},
+            new CalcCarbono {Materiais = "Ouro", emissaoMaterial = 100},
+            new CalcCarbono {Materiais = "Prata", emissaoMaterial = 7},
         };
-        
+
+        private List<CalcGanhos> valoresGanho = new List<CalcGanhos>
+        {
+            new CalcGanhos {Materiais = "Borracha", cotacao = 2.5},
+            new CalcGanhos {Materiais = "Plástico", cotacao = 1.2},
+            new CalcGanhos {Materiais = "Aluminio", cotacao = 5},
+            new CalcGanhos {Materiais = "Cobre", cotacao = 25.0},
+            new CalcGanhos {Materiais = "Ferro", cotacao = 2.5},
+            new CalcGanhos {Materiais = "Vidro", cotacao = 1.6},
+            new CalcGanhos {Materiais = "Papelão", cotacao = 0.75},
+            new CalcGanhos {Materiais = "Chumbo", cotacao = 10},
+            new CalcGanhos {Materiais = "Aço", cotacao = 8.0},
+            new CalcGanhos {Materiais = "Latão", cotacao = 7.5},
+            new CalcGanhos {Materiais = "Ouro", cotacao = 280.0},
+            new CalcGanhos {Materiais = "Prata", cotacao = 15.0},
+        };
+
 
 
         public IActionResult CalculadoraCarbono()
@@ -78,12 +103,29 @@ namespace AmbilitySP_Desktop.Controllers
             return View(new CalcCarbono());
         }
 
+        public IActionResult CalculadoraGanhos()
+        {
+            ViewBag.Valores = valoresGanho;
+
+            return View(new CalcGanhos());
+        }
+
+        
+
         [HttpPost]
         public IActionResult Calcular(CalcCarbono calcCarb)
         {
-            calcCarb.Resultado = calcCarb.emissaoMaterial * calcCarb.Kilos;
+            calcCarb.emissao = calcCarb.emissaoMaterial * calcCarb.Kilos;
             ViewBag.Valores = valoresCarb;
             return View("CalculadoraCarbono", calcCarb);
+        }
+
+        [HttpPost]
+        public IActionResult CalcularGanho(CalcGanhos calcGanho)
+        {
+            calcGanho.preco = calcGanho.cotacao * calcGanho.Kilos;
+            ViewBag.Valores = valoresGanho;
+            return View("CalculadoraGanhos", calcGanho);
         }
     }
 }
