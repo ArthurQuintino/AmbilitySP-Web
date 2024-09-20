@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wP/AiAv8J2Iw6tGG9Nzl1iuFRHnjfEIDTZ2CemYwUrs=",
+  "Hash": "DCbvAPcWM2NCrmsqT+RwID4UYrdAcIIbXwUh4MbIBtw=",
   "Source": "AmbilitySP-Desktop",
   "BasePath": "_content/AmbilitySP-Desktop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AmbilitySP-Desktop\\wwwroot",
       "Source": "AmbilitySP-Desktop",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmbilitySP-Desktop.styles.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmbilitySP-Desktop.styles.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "AmbilitySP-Desktop.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmbilitySP-Desktop.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmbilitySP-Desktop.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmbilitySP-Desktop.bundle.scp.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmbilitySP-Desktop.bundle.scp.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "AmbilitySP-Desktop.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmbilitySP-Desktop.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmbilitySP-Desktop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "css/Estilo.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Estilo.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo02.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "css/Estilo02.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Estilo02.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\Estilo03.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "css/Estilo03.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Estilo03.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\css\\site.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\favicon.ico",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio01.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio01.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/beneficio01.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\beneficio01.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio02.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio02.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/beneficio02.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\beneficio02.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio03.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\beneficio03.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/beneficio03.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\beneficio03.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\calculator.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\calculator.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/calculator.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\calculator.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\calendario.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\calendario.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/calendario.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\calendario.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\casa.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\casa.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/casa.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\casa.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\co2.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\co2.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/co2.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\co2.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\denuncia.jpg",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\denuncia.jpg",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/denuncia.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\denuncia.jpg"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\economia_circular.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\economia_circular.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/economia_circular.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\economia_circular.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\guaruja.jpg",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\guaruja.jpg",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/guaruja.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\guaruja.jpg"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\ilhabela1.jpg",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\ilhabela1.jpg",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/ilhabela1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ilhabela1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\informacao.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\informacao.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/informacao.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\informacao.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo_2.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo_2.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/logo_2.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo_2.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo-clara.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\logo-clara.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/logo-clara.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-clara.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\mapa01.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\mapa01.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/mapa01.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mapa01.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta1.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta1.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/pauta1.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pauta1.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta2.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta2.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/pauta2.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pauta2.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta3.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\pauta3.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/pauta3.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pauta3.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\poluition.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\poluition.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/poluition.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\poluition.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\recicla.jpg",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\recicla.jpg",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/recicla.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\recicla.jpg"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\reciclagem.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\reciclagem.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/reciclagem.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\reciclagem.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\telefone.png",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\telefone.png",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/telefone.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\telefone.png"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\ubatuba1.jpg",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\images\\ubatuba1.jpg",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "images/ubatuba1.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ubatuba1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\js\\site.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AmbilitySP-Desktop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\wwwroot\\",
       "BasePath": "_content/AmbilitySP-Desktop",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RKrx6YKZwI=",
+  "dgSpecHash": "goAesVgEIUM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikaz\\teste_asp\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
+  "projectFilePath": "C:\\Users\\mikaz\\OneDrive\\Área de Trabalho\\ASP_FINAL\\AmbilitySP-Web\\Ambility-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop\\AmbilitySP-Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mikaz\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mikaz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
